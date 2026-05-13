@@ -1,0 +1,10 @@
+{"text": "Львова", "features": {"lemma_text": "Львів", "pos_seq": "PROPN", "tokens": ["Львова"]}}
+{"text": "Знам'янкою", "features": {"lemma_text": "Знам’янка", "pos_seq": "PROPN", "tokens": ["Знам'янкою"]}}
+{"text": "м.Київ", "features": {"lemma_text": "м . Київ", "pos_seq": "NOUN PUNCT PROPN", "tokens": ["м", ".", "Київ"]}}
+{"text": "Харківщині", "features": {"lemma_text": "Харківщина", "pos_seq": "PROPN", "tokens": ["Харківщині"]}}
+{"text": "д'Артаньянівка", "features": {"lemma_text": "д’’ртаньянівка", "pos_seq": "NOUN", "tokens": ["д'Артаньянівка"]}}
+{"text": "1-а Слобідка", "features": {"lemma_text": "1-ий слобідка", "pos_seq": "ADJ NOUN", "tokens": ["1-а", "Слобідка"]}}
+{"text": "Ю'жне", "features": {"lemma_text": "Ю'жн", "pos_seq": "PROPN", "tokens": ["Ю'жне"]}}
+{"text": "Н.Сірогози", "features": {"lemma_text": "Н. . Сірогоза", "pos_seq": "PROPN PUNCT PROPN", "tokens": ["Н", ".", "Сірогози"]}}
+{"text": "смт.Козелець", "features": {"lemma_text": "смта . Козелець", "pos_seq": "NOUN PUNCT PROPN", "tokens": ["смт", ".", "Козелець"]}}
+{"text": "Дніпро-1", "features": {"lemma_text": "Дніпро - 1", "pos_seq": "PROPN PUNCT NUM", "tokens": ["Дніпро", "-", "1"]}}
