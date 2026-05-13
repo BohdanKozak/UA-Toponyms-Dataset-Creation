@@ -1,0 +1,20 @@
+{"id": 1, "raw_text": "м. Київ, вул. Хрещатик", "expected": "не розбивати на м. та вул."}
+{"id": 2, "raw_text": "О'Райлі та Об'єднання", "expected": "однакові апострофи"}
+{"id": 3, "raw_text": "Текст http://test.com", "expected": "<URL>"}
+{"id": 4, "raw_text": "admin@ukr.net", "expected": "<EMAIL>"}
+{"id": 5, "raw_text": "+380501234567", "expected": "<PHONE>"}
+{"id": 6, "raw_text": "Багато   пробілів", "expected": "один пробіл"}
+{"id": 7, "raw_text": "Київ. вул. Гоголя.", "expected": "не різати вул."}
+{"id": 8, "raw_text": "Речення 1. Речення 2", "expected": "2 речення"}
+{"id": 9, "raw_text": "Версія 2.0.1", "expected": "ціле число"}
+{"id": 10, "raw_text": "Що? Тест!", "expected": "спліт"}
+{"id": 11, "raw_text": "Тест 11", "expected": "ok"}
+{"id": 12, "raw_text": "Тест 12", "expected": "ok"}
+{"id": 13, "raw_text": "Тест 13", "expected": "ok"}
+{"id": 14, "raw_text": "Тест 14", "expected": "ok"}
+{"id": 15, "raw_text": "Тест 15", "expected": "ok"}
+{"id": 16, "raw_text": "Тест 16", "expected": "ok"}
+{"id": 17, "raw_text": "Тест 17", "expected": "ok"}
+{"id": 18, "raw_text": "Тест 18", "expected": "ok"}
+{"id": 19, "raw_text": "Тест 19", "expected": "ok"}
+{"id": 20, "raw_text": "Тест 20", "expected": "ok"}
