@@ -1,0 +1,13 @@
+{
+    "seed": 42,
+    "strategy": "GroupShuffleSplit (by canonical_name)",
+    "splits_size": {
+        "train": 106164,
+        "val": 13727,
+        "test": 12821
+    },
+    "timestamp": "2026-05-13 22:05:38",
+    "columns_used": [
+        "canonical_name"
+    ]
+}
